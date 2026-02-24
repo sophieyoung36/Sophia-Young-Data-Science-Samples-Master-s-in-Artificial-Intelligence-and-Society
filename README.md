@@ -1,2 +1,3 @@
 Sophia Young - Programming Skills: Three Data Science Projects
+
 Of the many projects I conducted as a data science student at University of California, Berkeley, I have selected the following projects to demonstrate my foundational understanding of the core elements required for my research proposal, including familiarity with classification systems, feature engineering pipelines, model fine-tuning, machine learning techniques, and data ethics. 
