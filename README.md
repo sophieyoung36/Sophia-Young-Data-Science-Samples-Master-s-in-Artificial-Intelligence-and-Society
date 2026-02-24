@@ -4,6 +4,6 @@ Of the many projects I conducted as a data science student at University of Cali
 
 Files 1.a. and 1.b. correspond to Project 1: Machine Learning to Create a Linear Regression Model
 
-Files 2.a. and 2.b. correspond to Project 2: Machine Learning Logistics Regression to Create a Binary Classifier
+Files 2.a. and 2.b. correspond to Project 2: Machine Learning Logistic Regression to Create a Binary Classifier
 
 File 3 corresponds to Project 3: Object-Oriented Programming and Abstraction
